@@ -1,0 +1,25 @@
+* {
+    font-size: 12px;
+    font-family: 'Arvo', serif;
+    box-sizing: border-box;
+
+}
+
+.logo {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.h5 {
+    font-weight: 600;
+}
+
+.body {
+    background-color: #eff3f6;
+    padding-bottom: 200px;
+}
+
+.breadcrumb {
+    background-color: #eff3f6;
+}
